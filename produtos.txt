@@ -1,2 +1,4 @@
 coca - 3,90
 guarana - 2,30
+pepsi - 2,50
+fanta - 4,00
